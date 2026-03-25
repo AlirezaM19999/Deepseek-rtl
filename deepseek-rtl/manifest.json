@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek RTL",
+  "version": "1.0",
+  "description": "راست‌چپ خودکار برای DeepSeek | ساخته شده توسط علیرضا - https://alireza-portfolio.businessman.workers.dev",
+  "permissions": [
+    "storage",
+    "scripting",
+    "webNavigation"
+  ],
+  "host_permissions": [
+      "https://deepseek.com/*",
+      "https://www.deepseek.com/*",
+      "https://chat.deepseek.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/rtl.png",
+      "32": "icons/plugin.png",
+      "48": "icons/extension.png",
+      "128": "icons/language.png"
+
+    }
+  },
+  "icons": {
+    "16": "icons/rtl.png",
+    "32": "icons/plugin.png",
+    "48": "icons/extension.png",
+    "128": "icons/language.png"
+  },
+  "author": "علیرضا - https://alireza-portfolio.businessman.workers.dev"
+}
