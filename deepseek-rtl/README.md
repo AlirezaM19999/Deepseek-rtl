@@ -71,7 +71,7 @@
 
 ## 📸 اسکرین‌شات‌ها
 
-| ![Screenshot 1](AlirezaM19999/Deepseek-rtl/blob/main/deepseek-rtl/screenshots/1.png) | ![Screenshot 2](screenshots/2.png) |
+| ![Screenshot 1](screenshots/1.png) | ![Screenshot 2](screenshots/screenshot.png) |
 |:---:|:---:|
 | *پنل افزونه* | *نمونه خروجی* |
 
